@@ -1,0 +1,7 @@
+C:\Users\Shashank C\Documents\MCUXpressoIDE_11.6.0_8187\workspace\PES_Final_Project\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\Shashank C\Documents\MCUXpressoIDE_11.6.0_8187\workspace\PES_Final_Project\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+C:\Users\Shashank C\Documents\MCUXpressoIDE_11.6.0_8187\workspace\PES_Final_Project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/UART.c:28:6:Init_UART0	32	static
+../source/UART.c:92:6:UART0_IRQHandler	16	static
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\redlib\include\sys\libconfig-arm.h:247:5:__sys_write	24	static
+c:\nxp\mcuxpressoide_11.6.0_8187\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359\tools\redlib\include\sys\libconfig-arm.h:241:5:__sys_readc	16	static

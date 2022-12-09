@@ -1,0 +1,9 @@
+../source/Command_Processor.c:65:5:roll_sp	32	static
+../source/Command_Processor.c:85:5:pitch_sp	24	static
+../source/Command_Processor.c:104:5:calibrate_roll	16	static
+../source/Command_Processor.c:117:5:calibrate_reset	16	static
+../source/Command_Processor.c:131:5:display_angles	24	static
+../source/Command_Processor.c:172:5:help	24	static
+../source/Command_Processor.c:186:6:position_tracking	56	static
+../source/Command_Processor.c:306:6:process_command	96	static
+../source/Command_Processor.c:370:6:command_processor	1024	static
