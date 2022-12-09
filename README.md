@@ -17,6 +17,7 @@ The user can enter roll angle setpoint and when the object reaches that angle, g
 The user can also enter pitch angle (vertical) setpoint from (0 to 85) degrees and when object reaches that angle, blue LED will blink.
 The calibration is kept for roll angle only as the main motive was to show the working of calibration.
 The major details can be found in the test plan and demo.
+Note: Set Baud rate to 9600, 1 start and 1 stop bit while connecting to terminal manager
 
 Learnings:
 1) I2C and acclerometer integration
