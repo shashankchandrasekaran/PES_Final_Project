@@ -26,7 +26,7 @@ Learnings:
 
 Challenge: To get good amount of accuracy. This was established by constant testing and modifying ranges, delays and conditions in the code.
 
-Submitted Project Matches Functionality:
+Submitted Project Matches Functionality: The project implementation matches all the points committed in the proposal.
 1) I2C, Comamnd Processing, PWM, Interrupts, GPIO and UART was committed in the project proposal. All these functionalities were implemented. In addition, SysTick was also used in the project.
 2) Project proposal mentioned calibration of zero degree by either UART, external button or TSI.The option was kept open to decide in future. In my implementation, have used TSI. 
 3) Proposal mentioned the operation in only one plane. But in implementation apart from roll angle, have also added pitch angle functionality.
